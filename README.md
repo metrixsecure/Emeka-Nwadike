@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋, I'm Emeka Nwadike - Cybersecurity Specialist & IT Specialist</h1>
-<h3 align="center">Welcome to my GitHub profile!.
+<h3 align="center">Welcome to my GitHub profile!
 <h3 align="center">I am a seasoned cybersecurity specialist and IT specialist with expertise in a wide range of technologies. I'm passionate about securing systems, optimizing IT infrastructure.</h3>
 
 <h3 align="left">-🚀 Programming Languages:</h3>
