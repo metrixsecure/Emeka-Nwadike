@@ -9,7 +9,7 @@
 <h2 align="left">-🔧 Skills & Other Tools🛠️</h2>
 <p align="left">- Troubleshooting Skills</p>
 <p align="left">- Networking Skills</p>
-<p align="left">- System Administration</p>
+<p align="left">- System Administration Skills</p>
 <p align="left">- Wireshark</p>
 <p align="left">- Nmap</p>
 
