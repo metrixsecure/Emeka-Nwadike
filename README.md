@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Emeka Nwadike - Cybersecurity & IT Specialist</h1>
+<h1 align="center">Hi there👋, I'm Emeka Nwadike - Cybersecurity & IT Specialist</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a seasoned cybersecurity and IT specialist with expertise in a wide range of technologies. I'm passionate about securing systems, optimizing IT infrastructure.</h3>
 
 <h3 align="left">-🚀 Programming Languages:</h3>
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate. Let's connect and make the tech world more secure and efficient together!.</p>
-<a>📫How to reach me: emynwadike@gmail.com</a>
 <p align="left">
 <a href="https://linkedin.com/in/emeka-nwadike-568678169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emeka-nwadike-568678169" height="30" width="40" /></a>
 </p>
