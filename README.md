@@ -13,13 +13,20 @@
 <p align="left">- Wireshark</p>
 <p align="left">- Nmap</p>
 
-
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=nsr_122dX0g">
+     <img 
+      src="https://i.imgur.com/KiV49zv.jpeg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
 
 <h3 align="left">Connect with me:</h3>
 <p>Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate. Let's connect and make the tech world more secure and efficient together!.</p>
 <p align="left">
 <a href="https://linkedin.com/in/emeka-nwadike-568678169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emeka-nwadike-568678169" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=nsr_122dx0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=nsr_122dx0g" height="30" width="40" /></a>
+
 </p>
 
 
