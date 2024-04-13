@@ -16,7 +16,10 @@
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=nsr_122dX0g">
-    
+      <img 
+      src="" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
       </a>
     </div>
 
