@@ -17,7 +17,7 @@
 <div align="center">
       <a href="https://www.youtube.com/watch?v=nsr_122dX0g">
       <img 
-      src="" 
+      src="https://imgur.com/a/FOp4cMe" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
