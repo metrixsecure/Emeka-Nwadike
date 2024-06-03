@@ -20,14 +20,12 @@
 <p align="left">Dependecy Walker => http://www.dependencywalker.com/</p>
 <p align="left">PEstudio => https://www.winitor.com/</p>
 <p align="left">HashCalc => http://www.slavasoft.com/hashcalc/</p>
-</br>
 <h3 align="left">🛠️Automatic Analysis:</h3>
 <p align="left">VirusTotal => https://www.virustotal.com/</p>
 <p align="left">Malware Analysis => https://malwr.com/</p>
 <p align="left">Hybrit-Analysis => https://www.hybrid-analysis.com/</p>
 <p align="left">Threat Expert => http://www.threatexpert.com/</p>
 <p align="left">Cuckoo => http://www.cuckoosandbox.org/</p>
-</br>
 <h3 align="left">🛠️Advanced Dynamic Analysis:</h3>
  <p align="left">IDA => https://www.hex-rays.com/products/ida/</p>
 <p align="left">Olly Debugger => http://www.ollydbg.de/</p>
