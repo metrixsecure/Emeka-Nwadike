@@ -9,18 +9,18 @@
 <h3 align="left">-🔧 THESE ARE SOME BASIC TOOLS, THOUGH NOWADAYS MALWARES/RANSOMWARE/STEALERS HAVE THE ABILITY TO BYPASS EVERYTHING.🛠️</h3>
 <p align="left">Static Analysis tools:</p>
 
-<p align="left">PEview => http://wjradburn.com/software/
-CFF Explorer => http://www.ntcore.com/exsuite.php
-PEinsider => http://cerbero.io/peinsider/
-ILspy => http://ilspy.net/
-System Internal Suite (strings) => https://technet.microsoft.com/en-
-us/sysinternals/bb842062.aspx
-JD-GUI => http://jd.benow.ca/
-Dex2Jar => https://github.com/pxb1988/dex2jar
-Resource Hacker => http://www.angusj.com/resourcehacker/
-Dependecy Walker => http://www.dependencywalker.com/
-PEstudio => https://www.winitor.com/
-HashCalc => http://www.slavasoft.com/hashcalc/</p>
+<p align="left">PEview => http://wjradburn.com/software/</p>
+<p align="left">CFF Explorer => http://www.ntcore.com/exsuite.php</p>
+<p align="left">PEinsider => http://cerbero.io/peinsider/</p>
+<p align="left">ILspy => http://ilspy.net/</p>
+<p align="left">System Internal Suite (strings) => https://technet.microsoft.com/en-</p>
+<p align="left">us/sysinternals/bb842062.aspx</p>
+<p align="left">JD-GUI => http://jd.benow.ca/</p>
+<p align="left">Dex2Jar => https://github.com/pxb1988/dex2jar</p>
+<p align="left">Resource Hacker => http://www.angusj.com/resourcehacker/</p>
+<p align="left">Dependecy Walker => http://www.dependencywalker.com/</p>
+<p align="left">PEstudio => https://www.winitor.com/</p>
+<p align="left">HashCalc => http://www.slavasoft.com/hashcalc/</p>
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=nsr_122dX0g">
