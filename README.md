@@ -8,8 +8,8 @@
 
 <h2 style="font-size: 4px;">-🔧 THESE ARE SOME BASIC TOOLS, THOUGH NOWADAYS MALWARES/RANSOMWARE/STEALERS HAVE THE ABILITY TO BYPASS EVERYTHING.</h2>
 <h3 align="left">🛠️Static Analysis tools:</h3>
-<a align="left">PEview => http://wjradburn.com/software/</aa>
-<a align="left">CFF Explorer => http://www.ntcore.com/exsuite.php</a>
+<p align="left">PEview => http://wjradburn.com/software/</p>
+<p align="left">CFF Explorer => http://www.ntcore.com/exsuite.php</a>
 <p align="left">PEinsider => http://cerbero.io/peinsider/</p>
 <p align="left">ILspy => http://ilspy.net/</p>
 <p align="left">System Internal Suite (strings) => https://technet.microsoft.com/en-</p>
@@ -20,7 +20,8 @@
 <p align="left">Dependecy Walker => http://www.dependencywalker.com/</p>
 <p align="left">PEstudio => https://www.winitor.com/</p>
 <p align="left">HashCalc => http://www.slavasoft.com/hashcalc/</p>
-
+</br>
+<h3 align="left">🛠️Automatic Analysis:</h3>
 <div align="center">
       <a href="https://www.youtube.com/watch?v=nsr_122dX0g">
       <img 
